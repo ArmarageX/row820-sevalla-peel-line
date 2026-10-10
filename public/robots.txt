@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peel-line-820-ufqm5.kinsta.page/sitemap.xml
